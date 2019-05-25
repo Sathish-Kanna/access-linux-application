@@ -1,0 +1,5 @@
+{
+    "utterance": "terminate firefox",
+    "intent_type": "terminate.app.intent",
+    "evaluation_timeout": 10
+}

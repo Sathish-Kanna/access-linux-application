@@ -1,0 +1,5 @@
+{
+    "utterance": "launch firefox",
+    "intent_type": "launch.app.intent",
+    "evaluation_timeout": 10
+}
